@@ -4,8 +4,15 @@
 
 ### scraping
 乃木坂のブログから写真をスクレイピングしてくる
-    
+
 メインフォルダは[ここ](https://github.com/kokoichi206/python_practice/blob/main/scraping/images.py)
+
+### minesweeper
+マインスイーパーっぽいもの
+
+ターミナル上で動く
+
+### simulated
 
 ### books
 
