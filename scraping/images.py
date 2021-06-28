@@ -64,5 +64,5 @@ def check_page_list(member_name):
 
 if __name__ == '__main__':
 	## 名前の指定、'_'で区切る
-    scraping_allpic("renka_iwamoto")
+    scraping_allpic("minami_hoshino")
 
