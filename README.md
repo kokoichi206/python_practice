@@ -3,18 +3,21 @@
 ## フォルダ説明
 
 ### scraping
-乃木坂のブログから写真をスクレイピングしてくる
+- 乃木坂のブログから写真をスクレイピングしてくる
 
-メインフォルダは[ここ](https://github.com/kokoichi206/python_practice/blob/main/scraping/images.py)
+- メインファイルは[これ](https://github.com/kokoichi206/python_practice/blob/main/scraping/images.py)
 
 ### minesweeper
-マインスイーパーっぽいもの
-
-ターミナル上で動く
+- マインスイーパーを再現しようとした
+- ターミナル上で（のみ）動く
 
 ### simulated
+- Isingモデルのシミュレーションを行なってみた
+- 時間変化はこんな感じで、[gif](https://github.com/kokoichi206/python_practice/tree/main/simulated/gif)もある
+![](./simulated/Ising.png)
 
 ### books
+
 
 ## その他
 ### 良いコードを書く方法
