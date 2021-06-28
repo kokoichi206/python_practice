@@ -13,7 +13,7 @@
 
 ### simulated
 - Isingモデルのシミュレーションを行なってみた
-- 時間変化はこんな感じで、[gif](https://github.com/kokoichi206/python_practice/tree/main/simulated/gif)もある
+- 時間変化は以下。[gif](https://github.com/kokoichi206/python_practice/tree/main/simulated/gif)もある
 ![](./simulated/Ising.png)
 
 ### books
